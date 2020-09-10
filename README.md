@@ -1,6 +1,6 @@
 # random_color_solid
 
-A new Flutter application.
+The Flutter Random Color Generator App for Solid. By Ivan Bandura))
 
 ## Getting Started
 
